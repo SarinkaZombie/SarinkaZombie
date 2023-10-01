@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SarinkaZombie
+- 👀 I’m interested in gaming streaming and software development.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking forward to mastering the 100 days of code Python bootcamp.
+- 📫 Reach out to me if you want to know more.
